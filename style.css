@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+
+.colour-list {
+    display: flex;
+    margin-bottom: 16px;
+}
+
+.colour-list-label {
+    font-weight: 600;
+    margin-bottom: 4px;
+}
+
+.colour-list-label div {
+    display: inline-block;
+}
+
+.colour-section {
+    display: flex;
+    flex-direction: column;
+}
+
+.colour-block {
+    width: 20px;
+    height: 60px;
+}
+
+.colour-status {
+    width: 20px;
+    height: 5px;
+}
